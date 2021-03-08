@@ -1,0 +1,5 @@
+There are two different Chat Bot application
+
+main.py will display home.html
+
+app.py will display index.html
